@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pictureanalysis", "Pictureanalysis\Pictureanalysis.csproj", "{97AA6140-67C4-4697-9FEE-BF6B61E7589A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeDegree", "LikeDegree\LikeDegree.csproj", "{59F4F73C-B4C6-41B9-8584-6CE113D74650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AA6140-67C4-4697-9FEE-BF6B61E7589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AA6140-67C4-4697-9FEE-BF6B61E7589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AA6140-67C4-4697-9FEE-BF6B61E7589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AA6140-67C4-4697-9FEE-BF6B61E7589A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F4F73C-B4C6-41B9-8584-6CE113D74650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F4F73C-B4C6-41B9-8584-6CE113D74650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F4F73C-B4C6-41B9-8584-6CE113D74650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F4F73C-B4C6-41B9-8584-6CE113D74650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
